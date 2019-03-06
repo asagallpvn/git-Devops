@@ -1,2 +1,2 @@
 # git-Devops
-DevOps 
+This is for DevOps Tutorial purpose.
